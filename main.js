@@ -43,7 +43,7 @@ function add() {
 
 function send() {
   const creat = document.createElement("p");
-  commentaire.value = lien.textContent;
+  commentaire.value 
   creat.classList.add("new");
 }
 
