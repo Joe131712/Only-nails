@@ -194,7 +194,7 @@ label {
 
 .footer {
     background: rgb(245,245,220);
-    height: 200px;
+    height: auto;
     padding: 0;
 }
 
@@ -274,5 +274,5 @@ label {
     display: flex;
     justify-content: space-around;
     align-items: center;
-    padding-bottom: 0px;
+    padding-bottom: 20px;
 }
