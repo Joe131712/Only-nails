@@ -265,3 +265,14 @@ label {
     font-weight: bold;
     margin: 10px auto;
 }
+
+::placeholder{
+    padding-top: 50px;
+}
+
+.reseaux {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding-bottom: 10px;
+}
