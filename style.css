@@ -42,7 +42,7 @@ body {
 }
 
 .h1-header{
-    font-family: Cursif;
+    font-family: Junaretta Martalle;
     margin: 0px auto;
     text-align: center;
     font-size: 40px;
@@ -65,7 +65,7 @@ a {
 
 .h3-ongles {
     color: #000;
-    font-family: cursif;
+    font-family: Junaretta Martalle;
     margin: 30px auto 30px;
     text-align: center;
     font-size: 40px;
@@ -115,7 +115,7 @@ iframe {
     color: lightcoral;
     margin: 10px 0px;
     font-size: 20px;
-    font-family: cursif;
+    font-family: Junarette Martalle;
 }
 
 .li-horaire {
@@ -210,7 +210,7 @@ label {
     margin: 0px 0;
     padding-top: 20px;
     text-align: center;
-    font-family: cursive;
+    font-family: Junarette Martalle;
     font-size: 35px;
 }
 
