@@ -12,7 +12,7 @@ body {
 .header {
     width: 100%;
     height: auto;
-    background: rgb(245,245,220);
+    background: #f4dde0;
     box-shadow: 0px 7px 7px ;
     position: fixed;
     z-index: 99;
@@ -193,7 +193,7 @@ label {
 }
 
 .footer {
-    background: rgb(245,245,220);
+    background: #f4dde0;
     height: auto;
     padding: 0;
 }
